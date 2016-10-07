@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled 
+736a767f90ca33b856c16f70f175623a225ae0b2 refs/heads/develop
+651eac64342f587bb387720d85767efa588c8333 refs/heads/environment_config
+fa68e1674b4708b0f01ae78aab93eb397f42b573 refs/heads/interns-page
+9b6eccf44d3a389ba2809d4ee8c264ed93ed5bdb refs/heads/kevin
+3d7a382a4b28c2c310e005c91863906ca9d7f492 refs/heads/license
+2f6e0dbc1efd871f6fa4fd128daf3b598134dfb1 refs/heads/master
+544e6961f137f0532329a8e1aeca03d95bafd5d6 refs/heads/newlogin
+0676c6b01b1905de4d3dd21989125e6a1fd1b9a5 refs/heads/remove-featured
+22bfcdaec052658191b117f4b4196963e7e7e4d7 refs/heads/session_debugging
+666d414ecb7eaab30264d0aa9079659bff8cf453 refs/heads/smarty-site-url
+0b4ed8452eb64aa7e2f565eaa42a1ac0f74c892b refs/tags/v2014.02.15.0
